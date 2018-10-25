@@ -1,2 +1,1 @@
-# LatestGigyaExtension
-Latest Magento 2 Gigya Extension
+# Magento- 2
